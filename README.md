@@ -1,1 +1,1 @@
-# Landing page project of Odin Project's course
+# Landing page project from Odin Project's course
