@@ -78,7 +78,7 @@ a {
     color:#e5e7eb
 }
 
-#signup {
+.signup {
     background-color: #3882f6;
     border: none;
     border-radius: 8px;
@@ -143,7 +143,7 @@ img {
 .quote .container {
     flex-direction: column;
     align-items: center;
-    width: 782px;
+    width: 790px;
     margin: 120px;
 }
 
@@ -159,4 +159,47 @@ q {
     font-size: 22px;
     font-weight: bold;
 }
+
+/* ACTION SECTION */
+.action {
+    display: flex;
+    justify-content: center;
+    height: 300px;
+    align-items: center;
+    height: 400px;
+}
+
+.action h3 {
+    margin: 0;
+    font-size: 26px;
+    color: white;
+}
+
+.action .container {
+    justify-content: center;
+    background-color: #3882f6;
+    border-radius: 12px;
+    padding: 20px 48px;
+}
+
+.action-text {
+    font-size: 18px;
+    color:#e5e7eb
+}
+
+.action .signup {
+    align-self: flex-end;
+    border: 3px solid white;
+    font-size: 18px;
+    padding: 8px 30px;
+    margin: 40px;
+}
+
+.content-width {
+    width: 800px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
 
